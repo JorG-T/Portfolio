@@ -72,7 +72,10 @@ h2{
     text-align: center;
 }
 #project .card img{
-    width: 100%;
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 6px;
+    
 }
 
 #project .card-title{
@@ -81,3 +84,21 @@ h2{
 #first-hint-p{
     color:rgb(231, 87, 20) ;
 }
+
+
+#project > div:nth-child(2){
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+#project > div:nth-child(3){
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-body{
+    margin-left: 100px;
+}
+    
