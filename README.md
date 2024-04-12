@@ -1,7 +1,8 @@
 # My Portfolio
 This portfolio showcases my projects and skills in web development using HTML, CSS, Bootstrap, and JavaScript.
-Screenshot [![Portfolio](https://github.com/JorG-T/Portfolio/assets/165364623/29fa65dd-18d1-4a65-84d4-7aa0182fc0a5)
-]
+Screenshot 
+![Portfolio](https://github.com/JorG-T/Portfolio/assets/165364623/29fa65dd-18d1-4a65-84d4-7aa0182fc0a5)
+
 
 ## Overview
 This portfolio is built using HTML, CSS, Bootstrap, and JavaScript. It consists of various web development projects that demonstrate my skills and expertise in front-end development.
